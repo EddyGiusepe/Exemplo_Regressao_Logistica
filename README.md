@@ -14,7 +14,7 @@ Este conjunto de Dados contém os seguintes recursos:
 * ``Male``: Se o consumidor era ou não masculino.
 * ``Country``: País do consumidor.
 * ``Timestamp``: hora em que o consumidor clicou no anúncio ou janela fechada.
-* ``Clicked on Ad``: $0$ ou $1$ indicam se clicou ou não no anúncio.
+* ``Clicked on Ad``: 0 ou 1 indicam se clicou ou não no anúncio.
 
 
 
